@@ -1,0 +1,40 @@
+{
+  "id": "hard-coin",
+  "title": "Hard Coin",
+  "description": "A converter for in-person games with real coins",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Syrious",
+      "discord": "syrious_",
+      "flags": {
+        "patreon": "SyriousWorkshop",
+        "github": "Syrious",
+        "ko-fi": "syrious"
+      }
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "index.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
+  "flags": {
+    "hotReload": {
+      "extensions": [
+        "json"
+      ],
+      "paths": [
+        "lang"
+      ]
+    }
+  },
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
