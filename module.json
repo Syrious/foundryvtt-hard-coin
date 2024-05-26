@@ -16,7 +16,7 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "esmodules": [
     "index.js"
@@ -34,7 +34,7 @@
       ]
     }
   },
-  "url": "",
+  "url": "https://github.com/Syrious/foundryvtt-hard-coin",
   "manifest": "${module-endpoint}",
   "download": "${download-endpoint}"
 }
