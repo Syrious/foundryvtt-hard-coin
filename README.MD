@@ -7,7 +7,7 @@
 
 # Introduction
 Another module designed for in-person games. If you are a DM who loves physical props like coins to hand out to your players, then this module is for you!
-Physical coins are fun and all, but soon you'll realize that it is not feasible to have a 1:1 ratio, so you probably decided to give your players one gold coin for each in-game gold. But math is hard, especially when dealing with splitting the money, buying and selling.
+Physical coins are fun and all, but soon you'll realize that it is not feasible to have a 1:1 ratio, so you probably decided to give your players one metal (plastic or paper) coin for each in-game coin. But math is hard, especially when dealing with splitting the money, buying and selling.
 This module provides you with a handy converter between hard (physical) and soft (in-game) coins.
 
 ### Usage
